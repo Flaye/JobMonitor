@@ -1,96 +1,5 @@
 [
   {
-    "title": "Intermediate / Senior FullStack Developer – App (JavaScript & Python) - CDI",
-    "company": "Descartes Underwriting",
-    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-fullstack-developer-app-javascript-python-cdi_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Intelligence artificielle / Machine Learning, Assurance",
-      "company_size": "230 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:31.095842"
-  },
-  {
-    "title": "Stage – Développement Python & Systèmes Embarqués (H/F)",
-    "company": "KICKMAKER",
-    "link": "https://www.welcometothejungle.com/fr/companies/kickmaker/jobs/stage-developpement-python-systemes-embarques-h-f_nantes",
-    "source": "WTTJ",
-    "details": {
-      "contract": "Stage",
-      "location": "Nantes",
-      "category": "Bureau d'études et d'ingénierie, Logiciels",
-      "company_size": "250 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.746164"
-  },
-  {
-    "title": "Alternance – Développeur  Python (F/H)",
-    "company": "Hardis Group",
-    "link": "https://www.welcometothejungle.com/fr/companies/hardis-group/jobs/alternance-developpeur-f-h_lyon",
-    "source": "WTTJ",
-    "details": {
-      "contract": "Alternance",
-      "location": "Lyon",
-      "category": "IT / Digital, Supply Chain",
-      "company_size": "1 719 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.510213"
-  },
-  {
-    "title": "Confirmed Python Developer (F/M)",
-    "company": "Veesion",
-    "link": "https://www.welcometothejungle.com/fr/companies/veesion-1/jobs/confirmed-python-developer-f-m_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Logiciels, Intelligence artificielle / Machine Learning",
-      "company_size": "150 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.951619"
-  },
-  {
-    "title": "Back-end/Data Engineer - Python (F/H/X)",
-    "company": "SeLoger & Meilleurs Agents",
-    "link": "https://www.welcometothejungle.com/fr/companies/groupe-seloger-meilleurs-agents/jobs/back-end-data-engineer-python-f-h-x_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Application mobile, IT / Digital",
-      "company_size": "800 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.895700"
-  },
-  {
-    "title": "Ingénieur Développeur Full Stack Python H/F - Full remote",
-    "company": "MeilleureCopro",
-    "link": "https://www.welcometothejungle.com/fr/companies/meilleurecopro-2/jobs/ingenieur-developpement-informatique-h-f_vincennes",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Vincennes",
-      "category": "Audit",
-      "company_size": "20 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.924674"
-  },
-  {
-    "title": "Ingénieur Techlead développement C++/Python secteur énergie H/F",
-    "company": "Thales",
-    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-techlead-developpement-c-python-secteur-energie-h-f_velizy-villacoublay",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Vélizy-Villacoublay",
-      "category": "Logiciels, Cybersécurité",
-      "company_size": "80 000 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:25.941569"
-  },
-  {
     "title": "Lead Développeur Cloud, Python, Angular (H/F) - CDI (Angers)",
     "company": "EIG",
     "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/lead-developpeur-cloud-python-angular-h-f-cdi_beaucouze",
@@ -101,20 +10,17 @@
       "category": "Logiciels, SaaS / Cloud Services",
       "company_size": "120 collaborateurs"
     },
-    "fetched_at": "2025-07-12T13:08:30.628310"
-  },
-  {
-    "title": "Développeur Python Senior (H/F/X)",
-    "company": "Sancare",
-    "link": "https://www.welcometothejungle.com/fr/companies/sancare/jobs/developpeur-python-senior-h-f-x_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Intelligence artificielle / Machine Learning, Big Data",
-      "company_size": "47 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.850259"
+    "fetched_at": "2025-07-12T17:40:34.283493",
+    "technologies": [
+      "Angular",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"cx4yfgg0\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
   },
   {
     "title": "Python Developer Junior  – Commando AI Team",
@@ -127,254 +33,22 @@
       "category": "FinTech / InsurTech, Finance",
       "company_size": "350 collaborateurs"
     },
-    "fetched_at": "2025-07-12T13:08:30.703200"
-  },
-  {
-    "title": "Tech Lead Backend Python FastAPI / Node NestJS",
-    "company": "Kanbios",
-    "link": "https://www.welcometothejungle.com/fr/companies/kanbios/jobs/tech-lead-developpeur-backend-data",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Bordeaux · Paris",
-      "category": "IT / Digital",
-      "company_size": "55 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.531999"
-  },
-  {
-    "title": "Stagiaire dévelopeur Backend Python H/F",
-    "company": "Flatsy",
-    "link": "https://www.welcometothejungle.com/fr/companies/flatsy/jobs/stagiaire-developeur-backend-python-h-f_paris_FLATS_KrYD7QR",
-    "source": "WTTJ",
-    "details": {
-      "contract": "Stage",
-      "location": "Paris",
-      "category": "SaaS / Cloud Services, Immobilier commercial",
-      "company_size": "30 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.874560"
-  },
-  {
-    "title": "Développeur Web Full stack Angular Python .NET Core (H/F) - CDI",
-    "company": "EIG",
-    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-angular-python-net-core-h-f-cdi_courbevoie_EIG_kl0ObdW",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Courbevoie",
-      "category": "Logiciels, SaaS / Cloud Services",
-      "company_size": "120 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.607138"
-  },
-  {
-    "title": "Intermediate / Senior Backend Developer - App (Python) - CDI",
-    "company": "Descartes Underwriting",
-    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-backend-developer-app-python-cdi_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Intelligence artificielle / Machine Learning, Assurance",
-      "company_size": "230 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:31.043571"
-  },
-  {
-    "title": "Ingénieur développement C++/Python secteur énergie H/F",
-    "company": "Thales",
-    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-developpement-c-python-secteur-energie-h-f_velizy-villacoublay_THALE_xjxDAap",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Vélizy-Villacoublay",
-      "category": "Logiciels, Cybersécurité",
-      "company_size": "80 000 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.436568"
-  },
-  {
-    "title": "Lead Software Engineer Scientific Engine (Python) - CDI",
-    "company": "Descartes Underwriting",
-    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/lead-software-engineer-scientific-engine-python_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Intelligence artificielle / Machine Learning, Assurance",
-      "company_size": "230 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:31.069232"
-  },
-  {
-    "title": "Backend developer - Python/django",
-    "company": "FIELDBOX",
-    "link": "https://www.welcometothejungle.com/fr/companies/fieldbox-ai/jobs/backend-developer-python-django_FIELD_pWbkwgK",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris · Bordeaux",
-      "category": "Intelligence artificielle / Machine Learning, IT / Digital",
-      "company_size": "80 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.556900"
-  },
-  {
-    "title": "Senior Software Engineer Backend (Python) H/F - CDI",
-    "company": "NW",
-    "link": "https://www.welcometothejungle.com/fr/companies/le-groupe-nw/jobs/senior-software-engineer-backend-python-h-f-cdi_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Logiciels, Energie",
-      "company_size": "135 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:31.018526"
-  },
-  {
-    "title": "Développeur.se Python (FastAPI) – Toulouse",
-    "company": "Web-atrio",
-    "link": "https://www.welcometothejungle.com/fr/companies/web-atrio/jobs/developpeur-se-fullstack-java-angular-sur-toulouse_blagnac_WEBAT_GokbYqX",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Blagnac",
-      "category": "Logiciels, SaaS / Cloud Services",
-      "company_size": "100 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.466966"
-  },
-  {
-    "title": "Développeur.se Full Stack (Python/React) - Stage",
-    "company": "Hello Watt",
-    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-se-full-stack-python-react-stage_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "Stage",
-      "location": "Paris",
-      "category": "Environnement / Développement durable, Energie",
-      "company_size": "220 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.997536"
-  },
-  {
-    "title": "Développeur(se) Python Django Senior(e) F/H/X",
-    "company": "Eleven Labs",
-    "link": "https://www.welcometothejungle.com/fr/companies/eleven-labs/jobs/developpeur-se-python-django-senior-f-h-x_paris_EL_NpbedxD",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Logiciels, IT / Digital",
-      "company_size": "100 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.581540"
-  },
-  {
-    "title": "ALTERNANCE Ingénieur Développeur Angular / Python (H/F)",
-    "company": "Thales",
-    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/alternance-ingenieur-developpeur-angular-python-h-f_cergy",
-    "source": "WTTJ",
-    "details": {
-      "contract": "Alternance",
-      "location": "Cergy",
-      "category": "Logiciels, Cybersécurité",
-      "company_size": "80 000 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.489126"
-  },
-  {
-    "title": "Lead Développeur Cloud, Python, Angular (H/F) - CDI (La Défense)",
-    "company": "EIG",
-    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/lead-developpeur-cloud-python-angular-h-f-cdi_courbevoie",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Courbevoie",
-      "category": "Logiciels, SaaS / Cloud Services",
-      "company_size": "120 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.650075"
-  },
-  {
-    "title": "Senior Software Engineer (fullstack, Python ReactJS)",
-    "company": "GitGuardian",
-    "link": "https://www.welcometothejungle.com/fr/companies/gitguardian/jobs/senior-software-engineer-fullstack-python-reactjs_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "IT / Digital, SaaS / Cloud Services",
-      "company_size": "130 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.823982"
-  },
-  {
-    "title": "Développeur Python expérimenté H/F",
-    "company": "Groupe SII",
-    "link": "https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-python-experimente-h-f_bordeaux",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Bordeaux",
-      "category": "Logiciels, Intelligence artificielle / Machine Learning",
-      "company_size": "16 000 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.771434"
-  },
-  {
-    "title": "Développeur.se Full Stack Senior (Python/React) - CDI",
-    "company": "Hello Watt",
-    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-full-stack-senior-python-react-cdi_paris",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Paris",
-      "category": "Environnement / Développement durable, Energie",
-      "company_size": "220 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.972331"
-  },
-  {
-    "title": "Développeur(se) fullstack Python/Django (F/H)",
-    "company": "adista",
-    "link": "https://www.welcometothejungle.com/fr/companies/adista/jobs/developpeur-se-fullstack-python-django-f-h_saint-etienne",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Saint-Étienne",
-      "category": "IT / Digital, SaaS / Cloud Services",
-      "company_size": "860 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:22.040373"
-  },
-  {
-    "title": "Développeur(se) Python / Expert(e) Dask - Spatial - Toulouse",
-    "company": "CS",
-    "link": "https://www.welcometothejungle.com/fr/companies/cs-group/jobs/developpeur-se-python-expert-dask-spatial-toulouse_toulouse_CS_P2MbRlX",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Toulouse",
-      "category": "Ingénieries Spécialisées, Aéronautique / Spatiale",
-      "company_size": "2 700 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.724042"
-  },
-  {
-    "title": "Développeur Python (H/F)",
-    "company": "Atos",
-    "link": "https://www.welcometothejungle.com/fr/companies/atos/jobs/developpeur-python-h-f_rennes",
-    "source": "WTTJ",
-    "details": {
-      "contract": "CDI",
-      "location": "Rennes",
-      "category": "IT / Digital",
-      "company_size": "72 000 collaborateurs"
-    },
-    "fetched_at": "2025-07-12T13:08:30.793249"
+    "fetched_at": "2025-07-12T17:40:38.289450",
+    "technologies": [
+      "AWS",
+      "Angular",
+      "Azure",
+      "CI/CD",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Node",
+      "Python",
+      "React",
+      "Terraform",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"cm8xco6o\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
   },
   {
     "title": "Développeur Web Full stack Angular Python .NET Core (H/F) - CDI",
@@ -387,6 +61,648 @@
       "category": "Logiciels, SaaS / Cloud Services",
       "company_size": "120 collaborateurs"
     },
-    "fetched_at": "2025-07-12T13:08:30.676002"
+    "fetched_at": "2025-07-12T17:40:37.003951",
+    "technologies": [
+      "Angular",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"j925wd9l\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur(se) fullstack Python/Django (F/H)",
+    "company": "adista",
+    "link": "https://www.welcometothejungle.com/fr/companies/adista/jobs/developpeur-se-fullstack-python-django-f-h_saint-etienne",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Saint-Étienne",
+      "category": "IT / Digital, SaaS / Cloud Services",
+      "company_size": "860 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:22.640025",
+    "technologies": [
+      "Azure",
+      "CI/CD",
+      "Django",
+      "Docker",
+      "JavaScript",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "TypeScript",
+      "Vue"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"3fujm6ul\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Ingénieur Techlead développement C++/Python secteur énergie H/F",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-techlead-developpement-c-python-secteur-energie-h-f_velizy-villacoublay",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vélizy-Villacoublay",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:23.623875",
+    "technologies": [
+      "Django",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"xpx37vs6\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur(se) Python / Expert(e) Dask - Spatial - Toulouse",
+    "company": "CS",
+    "link": "https://www.welcometothejungle.com/fr/companies/cs-group/jobs/developpeur-se-python-expert-dask-spatial-toulouse_toulouse_CS_P2MbRlX",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Toulouse",
+      "category": "Ingénieries Spécialisées, Aéronautique / Spatiale",
+      "company_size": "2 700 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:39.622109",
+    "technologies": [
+      "Docker",
+      "JavaScript",
+      "Linux",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"cst4hjmj\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Stage – Développement Python & Systèmes Embarqués (H/F)",
+    "company": "KICKMAKER",
+    "link": "https://www.welcometothejungle.com/fr/companies/kickmaker/jobs/stage-developpement-python-systemes-embarques-h-f_nantes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Nantes",
+      "category": "Bureau d'études et d'ingénierie, Logiciels",
+      "company_size": "250 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:41.139656",
+    "technologies": [
+      "JavaScript",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"ogew5dhw\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Intermediate / Senior Backend Developer - App (Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-backend-developer-app-python-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:57.482251",
+    "technologies": [
+      "CI/CD",
+      "Docker",
+      "FastAPI",
+      "Flask",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "NoSQL",
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"a5uz1gh8\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Lead Développeur Cloud, Python, Angular (H/F) - CDI (La Défense)",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/lead-developpeur-cloud-python-angular-h-f-cdi_courbevoie",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Courbevoie",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:35.739212",
+    "technologies": [
+      "Angular",
+      "Django",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"in2dycsc\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Ingénieur développement C++/Python secteur énergie H/F",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-developpement-c-python-secteur-energie-h-f_velizy-villacoublay_THALE_xjxDAap",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vélizy-Villacoublay",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:24.863449",
+    "technologies": [
+      "CI/CD",
+      "Django",
+      "Java",
+      "JavaScript",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"k64trnxs\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Lead Software Engineer Scientific Engine (Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/lead-software-engineer-scientific-engine-python_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:58.717674",
+    "technologies": [
+      "CI/CD",
+      "Docker",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"k61dc64d\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur Web Full stack Angular Python .NET Core (H/F) - CDI",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-angular-python-net-core-h-f-cdi_courbevoie_EIG_kl0ObdW",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Courbevoie",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:32.900011",
+    "technologies": [
+      "Angular",
+      "Django",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"gj856ryk\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Intermediate / Senior FullStack Developer – App (JavaScript & Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-fullstack-developer-app-javascript-python-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:41:00.225387",
+    "technologies": [
+      "CI/CD",
+      "Docker",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "Node",
+      "Python",
+      "React"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"r2pw2o8y\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur(se) Python Django Senior(e) F/H/X",
+    "company": "Eleven Labs",
+    "link": "https://www.welcometothejungle.com/fr/companies/eleven-labs/jobs/developpeur-se-python-django-senior-f-h-x_paris_EL_NpbedxD",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, IT / Digital",
+      "company_size": "100 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:31.671884",
+    "technologies": [
+      "AWS",
+      "Django",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Node",
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"mbh44fuv\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Alternance – Développeur  Python (F/H)",
+    "company": "Hardis Group",
+    "link": "https://www.welcometothejungle.com/fr/companies/hardis-group/jobs/alternance-developpeur-f-h_lyon",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Alternance",
+      "location": "Lyon",
+      "category": "IT / Digital, Supply Chain",
+      "company_size": "1 719 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:28.065548",
+    "technologies": [
+      "CI/CD",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Kubernetes",
+      "Linux",
+      "MongoDB",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Vue"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"xjntqyf6\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Senior Software Engineer (fullstack, Python ReactJS)",
+    "company": "GitGuardian",
+    "link": "https://www.welcometothejungle.com/fr/companies/gitguardian/jobs/senior-software-engineer-fullstack-python-reactjs_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "IT / Digital, SaaS / Cloud Services",
+      "company_size": "130 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:45.364397",
+    "technologies": [
+      "AWS",
+      "Django",
+      "Docker",
+      "JavaScript",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "React",
+      "Redis",
+      "TypeScript"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"5qzwrh25\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Confirmed Python Developer (F/M)",
+    "company": "Veesion",
+    "link": "https://www.welcometothejungle.com/fr/companies/veesion-1/jobs/confirmed-python-developer-f-m_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, Intelligence artificielle / Machine Learning",
+      "company_size": "150 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:52.247410",
+    "technologies": [
+      "Django",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"5h7agewq\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur.se Python (FastAPI) – Toulouse",
+    "company": "Web-atrio",
+    "link": "https://www.welcometothejungle.com/fr/companies/web-atrio/jobs/developpeur-se-fullstack-java-angular-sur-toulouse_blagnac_WEBAT_GokbYqX",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Blagnac",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "100 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:25.840742",
+    "technologies": [
+      "Angular",
+      "FastAPI",
+      "Java",
+      "JavaScript",
+      "NoSQL",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"zlsy7jru\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Senior Software Engineer Backend (Python) H/F - CDI",
+    "company": "NW",
+    "link": "https://www.welcometothejungle.com/fr/companies/le-groupe-nw/jobs/senior-software-engineer-backend-python-h-f-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, Energie",
+      "company_size": "135 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:56.097075",
+    "technologies": [
+      "Django",
+      "FastAPI",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"hj82bovx\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur Python expérimenté H/F",
+    "company": "Groupe SII",
+    "link": "https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-python-experimente-h-f_bordeaux",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Bordeaux",
+      "category": "Logiciels, Intelligence artificielle / Machine Learning",
+      "company_size": "16 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:42.663087",
+    "technologies": [
+      "Angular",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"oikjgfvq\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Ingénieur Développeur Full Stack Python H/F - Full remote",
+    "company": "MeilleureCopro",
+    "link": "https://www.welcometothejungle.com/fr/companies/meilleurecopro-2/jobs/ingenieur-developpement-informatique-h-f_vincennes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vincennes",
+      "category": "Audit",
+      "company_size": "20 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:50.909521",
+    "technologies": [
+      "Angular",
+      "Django",
+      "Docker",
+      "GCP",
+      "JavaScript",
+      "Kubernetes",
+      "Python",
+      "Vue"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"anouv6xc\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "ALTERNANCE Ingénieur Développeur Angular / Python (H/F)",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/alternance-ingenieur-developpeur-angular-python-h-f_cergy",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Alternance",
+      "location": "Cergy",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:26.822028",
+    "technologies": [
+      "Angular",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Python",
+      "React"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"05bajpxw\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur.se Full Stack (Python/React) - Stage",
+    "company": "Hello Watt",
+    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-se-full-stack-python-react-stage_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Paris",
+      "category": "Environnement / Développement durable, Energie",
+      "company_size": "220 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:54.859597",
+    "technologies": [
+      "AWS",
+      "Angular",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "JavaScript",
+      "Python",
+      "React",
+      "Redis",
+      "Vue"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"b07986am\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur Python (H/F)",
+    "company": "Atos",
+    "link": "https://www.welcometothejungle.com/fr/companies/atos/jobs/developpeur-python-h-f_rennes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Rennes",
+      "category": "IT / Digital",
+      "company_size": "72 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:44.045693",
+    "technologies": [
+      "Angular",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"67nkad6d\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Tech Lead Backend Python FastAPI / Node NestJS",
+    "company": "Kanbios",
+    "link": "https://www.welcometothejungle.com/fr/companies/kanbios/jobs/tech-lead-developpeur-backend-data",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Bordeaux · Paris",
+      "category": "IT / Digital",
+      "company_size": "55 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:29.041065",
+    "technologies": [
+      "CI/CD",
+      "Django",
+      "FastAPI",
+      "JavaScript",
+      "NoSQL",
+      "Node",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"6e4w3jby\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Backend developer - Python/django",
+    "company": "FIELDBOX",
+    "link": "https://www.welcometothejungle.com/fr/companies/fieldbox-ai/jobs/backend-developer-python-django_FIELD_pWbkwgK",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris · Bordeaux",
+      "category": "Intelligence artificielle / Machine Learning, IT / Digital",
+      "company_size": "80 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:30.391034",
+    "technologies": [
+      "Django",
+      "Docker",
+      "JavaScript",
+      "Python"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"1hzi17ca\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur Python Senior (H/F/X)",
+    "company": "Sancare",
+    "link": "https://www.welcometothejungle.com/fr/companies/sancare/jobs/developpeur-python-senior-h-f-x_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Big Data",
+      "company_size": "47 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:46.961042",
+    "technologies": [
+      "Docker",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"utct6vlj\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Développeur.se Full Stack Senior (Python/React) - CDI",
+    "company": "Hello Watt",
+    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-full-stack-senior-python-react-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Environnement / Développement durable, Energie",
+      "company_size": "220 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:53.541190",
+    "technologies": [
+      "AWS",
+      "Angular",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Python",
+      "React",
+      "Redis",
+      "Vue"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"wtz6e0a9\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Stagiaire dévelopeur Backend Python H/F",
+    "company": "Flatsy",
+    "link": "https://www.welcometothejungle.com/fr/companies/flatsy/jobs/stagiaire-developeur-backend-python-h-f_paris_FLATS_KrYD7QR",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Paris",
+      "category": "SaaS / Cloud Services, Immobilier commercial",
+      "company_size": "30 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:48.311515",
+    "technologies": [
+      "AWS",
+      "Angular",
+      "CI/CD",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "React"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"cedvo1ej\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
+  },
+  {
+    "title": "Back-end/Data Engineer - Python (F/H/X)",
+    "company": "SeLoger & Meilleurs Agents",
+    "link": "https://www.welcometothejungle.com/fr/companies/groupe-seloger-meilleurs-agents/jobs/back-end-data-engineer-python-f-h-x_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Application mobile, IT / Digital",
+      "company_size": "800 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T17:40:49.652090",
+    "technologies": [
+      "AWS",
+      "Airflow",
+      "CI/CD",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Terraform"
+    ],
+    "raw_description": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-WZZZJQ3\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-5N7SC65\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden;\"></iframe>// Need to call JSON.stringify _twice_ because data is _not_ serialized before\nwindow.__INITIAL_STATE__ = \"{\\\"router\\\":{\\\"location\\\":{\\\"pathname\\\":\\\"/\\\",\\\"search\\\":\\\"\\\",\\\"hash\\\":\\\"\\\",\\\"state\\\":null,\\\"key\\\":\\\"a3ghxds3\\\",\\\"query\\\":{}},\\\"action\\\":\\\"POP\\\"},\\\"session\\\":{\\\"hasSessionCookie\\\":false,\\\"resetPasswordToken\\\":null},\\\"socket\\\":{\\\"socket\\\":null},\\\"api\\\":{\\\"collections\\\":{},\\\"resources\\\":{},\\\"resourceErrors\\\":{},\\\"collectionTtl\\\":{}},\\\"alerts\\\":{\\\"jobs\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"organizations\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"authors\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"tags\\\":{\\\"entries\\\":[],\\\"isLoaded\\\":false},\\\"summary\\\":{}}}\"\n// Need to do JSON.stringify _once_ because data is serialized b"
   }
 ]

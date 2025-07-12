@@ -1,14 +1,14 @@
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime
-from tkinter import E
 
 from playwright.sync_api import sync_playwright
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from src.config import technos
+from src.config import TECH_KEYWORDS
 
 SEARCH_URL = "https://www.welcometothejungle.com/fr/jobs?query=python&city_id=Paris"
 
@@ -74,8 +74,9 @@ def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
                         "company_size": company_size.strip() if company_size else None,
                         # "technologies": technologies,
                     },
-                    "fetched_at": datetime.utcnow().isoformat(),
+                    "fetched_at": datetime.now().isoformat(),
                 }
+                job.update(extract_technologies(job["link"], brower))
 
                 jobs.add(json.dumps(job, ensure_ascii=False))
                 print(f"📄 Job {job_index+1}: {title} at {company}")
@@ -83,6 +84,32 @@ def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
                 print(f"⚠️ Error on card {job_index}:", e)
         brower.close()
         return [json.loads(job) for job in jobs if jobs]
+
+
+def extract_technologies(link, browser):
+    try:
+        details_page = browser.new_page()
+        details_page.goto(link)
+        time.sleep(0.5)  # Wait for the page to load
+        text = details_page.locator("body").text_content()
+        found = sorted(
+            {
+                techno
+                for techno in TECH_KEYWORDS
+                if re.search(rf"\b{re.escape(techno)}\b", text, re.IGNORECASE)
+            }
+        )
+        return {
+            "technologies": found,
+            "raw_description": text[
+                :1000
+            ],  # pour debug ou NLP futur (limité ici à 1000 caractères)
+        }
+    except Exception as e:
+        print(f"⚠️ Error opening job details page: {e}")
+        return []
+    finally:
+        details_page.close()
 
 
 def save_jobs(jobs, filename="data/raw/wttj_jobs_playwright.json"):
