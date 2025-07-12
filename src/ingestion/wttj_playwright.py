@@ -7,10 +7,11 @@ from datetime import datetime
 
 from playwright.sync_api import sync_playwright
 
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from src.config import TECH_KEYWORDS
 
-SEARCH_URL = "https://www.welcometothejungle.com/fr/jobs?query=python&city_id=Paris"
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+SEARCH_URL = "https://www.welcometothejungle.com/fr/jobs?query=Software%20engineer&aroundQuery=Paris%2C%20Paris%2C%20Île-de-France%2C%20France"
 
 
 def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
@@ -72,7 +73,6 @@ def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
                         "location": location.strip() if location else None,
                         "category": category.strip() if category else None,
                         "company_size": company_size.strip() if company_size else None,
-                        # "technologies": technologies,
                     },
                     "fetched_at": datetime.now().isoformat(),
                 }
@@ -87,7 +87,6 @@ def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
 
 
 def extract_technologies(link, browser):
-
     try:
         details_page = browser.new_page()
         details_page.goto(link)
@@ -100,11 +99,12 @@ def extract_technologies(link, browser):
                 if re.search(rf"\b{re.escape(techno)}\b", text, re.IGNORECASE)
             }
         )
+        job_description = details_page.get_by_test_id(
+            "job-section-description"
+        ).first.text_content()
         return {
             "technologies": found,
-            "raw_description": text[
-                :1000
-            ],  # pour debug ou NLP futur (limité ici à 1000 caractères)
+            "job_description": job_description,  # pour debug ou NLP futur (limité ici à 1000 caractères)
         }
     except Exception as e:
         print(f"⚠️ Error opening job details page: {e}")
