@@ -87,6 +87,7 @@ def fetch_wttj_jobs(url=SEARCH_URL, max_scrolls=3):
 
 
 def extract_technologies(link, browser):
+
     try:
         details_page = browser.new_page()
         details_page.goto(link)
@@ -110,17 +111,3 @@ def extract_technologies(link, browser):
         return []
     finally:
         details_page.close()
-
-
-def save_jobs(jobs, filename="data/raw/wttj_jobs_playwright.json"):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(jobs, f, indent=2, ensure_ascii=False)
-
-
-if __name__ == "__main__":
-    start_time = datetime.now()
-    jobs = fetch_wttj_jobs()
-    save_jobs(jobs)
-    end_time = datetime.now()
-    duration = end_time - start_time
-    print(f"⏱️  Duration: {duration}")
