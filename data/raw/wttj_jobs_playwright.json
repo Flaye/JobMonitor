@@ -1,0 +1,392 @@
+[
+  {
+    "title": "Intermediate / Senior FullStack Developer – App (JavaScript & Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-fullstack-developer-app-javascript-python-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:31.095842"
+  },
+  {
+    "title": "Stage – Développement Python & Systèmes Embarqués (H/F)",
+    "company": "KICKMAKER",
+    "link": "https://www.welcometothejungle.com/fr/companies/kickmaker/jobs/stage-developpement-python-systemes-embarques-h-f_nantes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Nantes",
+      "category": "Bureau d'études et d'ingénierie, Logiciels",
+      "company_size": "250 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.746164"
+  },
+  {
+    "title": "Alternance – Développeur  Python (F/H)",
+    "company": "Hardis Group",
+    "link": "https://www.welcometothejungle.com/fr/companies/hardis-group/jobs/alternance-developpeur-f-h_lyon",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Alternance",
+      "location": "Lyon",
+      "category": "IT / Digital, Supply Chain",
+      "company_size": "1 719 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.510213"
+  },
+  {
+    "title": "Confirmed Python Developer (F/M)",
+    "company": "Veesion",
+    "link": "https://www.welcometothejungle.com/fr/companies/veesion-1/jobs/confirmed-python-developer-f-m_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, Intelligence artificielle / Machine Learning",
+      "company_size": "150 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.951619"
+  },
+  {
+    "title": "Back-end/Data Engineer - Python (F/H/X)",
+    "company": "SeLoger & Meilleurs Agents",
+    "link": "https://www.welcometothejungle.com/fr/companies/groupe-seloger-meilleurs-agents/jobs/back-end-data-engineer-python-f-h-x_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Application mobile, IT / Digital",
+      "company_size": "800 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.895700"
+  },
+  {
+    "title": "Ingénieur Développeur Full Stack Python H/F - Full remote",
+    "company": "MeilleureCopro",
+    "link": "https://www.welcometothejungle.com/fr/companies/meilleurecopro-2/jobs/ingenieur-developpement-informatique-h-f_vincennes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vincennes",
+      "category": "Audit",
+      "company_size": "20 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.924674"
+  },
+  {
+    "title": "Ingénieur Techlead développement C++/Python secteur énergie H/F",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-techlead-developpement-c-python-secteur-energie-h-f_velizy-villacoublay",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vélizy-Villacoublay",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:25.941569"
+  },
+  {
+    "title": "Lead Développeur Cloud, Python, Angular (H/F) - CDI (Angers)",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/lead-developpeur-cloud-python-angular-h-f-cdi_beaucouze",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Beaucouzé",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.628310"
+  },
+  {
+    "title": "Développeur Python Senior (H/F/X)",
+    "company": "Sancare",
+    "link": "https://www.welcometothejungle.com/fr/companies/sancare/jobs/developpeur-python-senior-h-f-x_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Big Data",
+      "company_size": "47 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.850259"
+  },
+  {
+    "title": "Python Developer Junior  – Commando AI Team",
+    "company": "iBanFirst",
+    "link": "https://www.welcometothejungle.com/fr/companies/ibanfirst/jobs/python-developer-junior-commando-ai-team_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "FinTech / InsurTech, Finance",
+      "company_size": "350 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.703200"
+  },
+  {
+    "title": "Tech Lead Backend Python FastAPI / Node NestJS",
+    "company": "Kanbios",
+    "link": "https://www.welcometothejungle.com/fr/companies/kanbios/jobs/tech-lead-developpeur-backend-data",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Bordeaux · Paris",
+      "category": "IT / Digital",
+      "company_size": "55 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.531999"
+  },
+  {
+    "title": "Stagiaire dévelopeur Backend Python H/F",
+    "company": "Flatsy",
+    "link": "https://www.welcometothejungle.com/fr/companies/flatsy/jobs/stagiaire-developeur-backend-python-h-f_paris_FLATS_KrYD7QR",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Paris",
+      "category": "SaaS / Cloud Services, Immobilier commercial",
+      "company_size": "30 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.874560"
+  },
+  {
+    "title": "Développeur Web Full stack Angular Python .NET Core (H/F) - CDI",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-angular-python-net-core-h-f-cdi_courbevoie_EIG_kl0ObdW",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Courbevoie",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.607138"
+  },
+  {
+    "title": "Intermediate / Senior Backend Developer - App (Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/senior-backend-developer-app-python-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:31.043571"
+  },
+  {
+    "title": "Ingénieur développement C++/Python secteur énergie H/F",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/ingenieur-developpement-c-python-secteur-energie-h-f_velizy-villacoublay_THALE_xjxDAap",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Vélizy-Villacoublay",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.436568"
+  },
+  {
+    "title": "Lead Software Engineer Scientific Engine (Python) - CDI",
+    "company": "Descartes Underwriting",
+    "link": "https://www.welcometothejungle.com/fr/companies/descartesunderwriting/jobs/lead-software-engineer-scientific-engine-python_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Intelligence artificielle / Machine Learning, Assurance",
+      "company_size": "230 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:31.069232"
+  },
+  {
+    "title": "Backend developer - Python/django",
+    "company": "FIELDBOX",
+    "link": "https://www.welcometothejungle.com/fr/companies/fieldbox-ai/jobs/backend-developer-python-django_FIELD_pWbkwgK",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris · Bordeaux",
+      "category": "Intelligence artificielle / Machine Learning, IT / Digital",
+      "company_size": "80 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.556900"
+  },
+  {
+    "title": "Senior Software Engineer Backend (Python) H/F - CDI",
+    "company": "NW",
+    "link": "https://www.welcometothejungle.com/fr/companies/le-groupe-nw/jobs/senior-software-engineer-backend-python-h-f-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, Energie",
+      "company_size": "135 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:31.018526"
+  },
+  {
+    "title": "Développeur.se Python (FastAPI) – Toulouse",
+    "company": "Web-atrio",
+    "link": "https://www.welcometothejungle.com/fr/companies/web-atrio/jobs/developpeur-se-fullstack-java-angular-sur-toulouse_blagnac_WEBAT_GokbYqX",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Blagnac",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "100 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.466966"
+  },
+  {
+    "title": "Développeur.se Full Stack (Python/React) - Stage",
+    "company": "Hello Watt",
+    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-se-full-stack-python-react-stage_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Stage",
+      "location": "Paris",
+      "category": "Environnement / Développement durable, Energie",
+      "company_size": "220 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.997536"
+  },
+  {
+    "title": "Développeur(se) Python Django Senior(e) F/H/X",
+    "company": "Eleven Labs",
+    "link": "https://www.welcometothejungle.com/fr/companies/eleven-labs/jobs/developpeur-se-python-django-senior-f-h-x_paris_EL_NpbedxD",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Logiciels, IT / Digital",
+      "company_size": "100 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.581540"
+  },
+  {
+    "title": "ALTERNANCE Ingénieur Développeur Angular / Python (H/F)",
+    "company": "Thales",
+    "link": "https://www.welcometothejungle.com/fr/companies/thales/jobs/alternance-ingenieur-developpeur-angular-python-h-f_cergy",
+    "source": "WTTJ",
+    "details": {
+      "contract": "Alternance",
+      "location": "Cergy",
+      "category": "Logiciels, Cybersécurité",
+      "company_size": "80 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.489126"
+  },
+  {
+    "title": "Lead Développeur Cloud, Python, Angular (H/F) - CDI (La Défense)",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/lead-developpeur-cloud-python-angular-h-f-cdi_courbevoie",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Courbevoie",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.650075"
+  },
+  {
+    "title": "Senior Software Engineer (fullstack, Python ReactJS)",
+    "company": "GitGuardian",
+    "link": "https://www.welcometothejungle.com/fr/companies/gitguardian/jobs/senior-software-engineer-fullstack-python-reactjs_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "IT / Digital, SaaS / Cloud Services",
+      "company_size": "130 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.823982"
+  },
+  {
+    "title": "Développeur Python expérimenté H/F",
+    "company": "Groupe SII",
+    "link": "https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-python-experimente-h-f_bordeaux",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Bordeaux",
+      "category": "Logiciels, Intelligence artificielle / Machine Learning",
+      "company_size": "16 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.771434"
+  },
+  {
+    "title": "Développeur.se Full Stack Senior (Python/React) - CDI",
+    "company": "Hello Watt",
+    "link": "https://www.welcometothejungle.com/fr/companies/hello-watt/jobs/developpeur-full-stack-senior-python-react-cdi_paris",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Paris",
+      "category": "Environnement / Développement durable, Energie",
+      "company_size": "220 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.972331"
+  },
+  {
+    "title": "Développeur(se) fullstack Python/Django (F/H)",
+    "company": "adista",
+    "link": "https://www.welcometothejungle.com/fr/companies/adista/jobs/developpeur-se-fullstack-python-django-f-h_saint-etienne",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Saint-Étienne",
+      "category": "IT / Digital, SaaS / Cloud Services",
+      "company_size": "860 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:22.040373"
+  },
+  {
+    "title": "Développeur(se) Python / Expert(e) Dask - Spatial - Toulouse",
+    "company": "CS",
+    "link": "https://www.welcometothejungle.com/fr/companies/cs-group/jobs/developpeur-se-python-expert-dask-spatial-toulouse_toulouse_CS_P2MbRlX",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Toulouse",
+      "category": "Ingénieries Spécialisées, Aéronautique / Spatiale",
+      "company_size": "2 700 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.724042"
+  },
+  {
+    "title": "Développeur Python (H/F)",
+    "company": "Atos",
+    "link": "https://www.welcometothejungle.com/fr/companies/atos/jobs/developpeur-python-h-f_rennes",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Rennes",
+      "category": "IT / Digital",
+      "company_size": "72 000 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.793249"
+  },
+  {
+    "title": "Développeur Web Full stack Angular Python .NET Core (H/F) - CDI",
+    "company": "EIG",
+    "link": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-angular-python-net-core-h-f-cdi_beaucouze",
+    "source": "WTTJ",
+    "details": {
+      "contract": "CDI",
+      "location": "Beaucouzé",
+      "category": "Logiciels, SaaS / Cloud Services",
+      "company_size": "120 collaborateurs"
+    },
+    "fetched_at": "2025-07-12T13:08:30.676002"
+  }
+]
